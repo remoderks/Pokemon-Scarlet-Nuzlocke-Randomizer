@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86655bbe-b3c3-47f0-a7f8-701c2ec63f53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomPokemonSelector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/PokemonDataScarlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/RandomPokemonSelector.java" afterDir="false" />
-    </list>
+    <list default="true" id="86655bbe-b3c3-47f0-a7f8-701c2ec63f53" name="Changes" comment="Pokemon Scarlet Nuzlocke encounter randomizer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716895783668</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pokemon Scarlet Nuzlocke encounter randomizer">
+      <option name="closed" value="true" />
+      <created>1716910300655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716910300655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pokemon Scarlet Nuzlocke encounter randomizer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pokemon Scarlet Nuzlocke encounter randomizer" />
   </component>
 </project>
